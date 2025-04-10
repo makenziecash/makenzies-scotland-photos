@@ -13,15 +13,20 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
+Edinburgh 
+by Hugh MacDiarmid
+But Edinburgh is a mad god's dream
+Fitful and dark, 
+Unseizable in Leith
+And wildered by the Forth, 
+But irresistibly at last
+Cleaving to sombre heights
+Of passionate imagining
+Till stonily, 
+From soaring battlements, 
+Earth eyes Eternity 
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+As a Scottish history buff and Gothic architecture enthusiast, I first fell in love with Glasgow and Edinburgh on a family vacation in 2022. This collection of photographs highlights some of landmarks and infamous views that make Scotland home to some of the world's most beautiful cities and richest histories.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
