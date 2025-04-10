@@ -13,8 +13,8 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
-Edinburgh 
-<br> by Hugh MacDiarmid <br/>
+<b> Edinburgh <b/>
+<br><b> by Hugh MacDiarmid <br/><b/>
 <br> But Edinburgh is a mad god's dream <br/>
 <br> Fitful and dark, <br/>
 <br> Unseizable in Leith <br/>
