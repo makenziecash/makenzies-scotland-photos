@@ -14,17 +14,17 @@ credits: true
 
 ## About the Collection
 Edinburgh 
-by Hugh MacDiarmid
-But Edinburgh is a mad god's dream
-Fitful and dark, 
-Unseizable in Leith
-And wildered by the Forth, 
-But irresistibly at last
-Cleaving to sombre heights
-Of passionate imagining
-Till stonily, 
-From soaring battlements, 
-Earth eyes Eternity 
+<br> by Hugh MacDiarmid <br/>
+<br> But Edinburgh is a mad god's dream <br/>
+<br> Fitful and dark, <br/>
+<br> Unseizable in Leith <br/>
+<br> And wildered by the Forth, <br/>
+<br> But irresistibly at last <br/>
+<br> Cleaving to sombre heights <br/>
+<br> Of passionate imagining <br/>
+<br> Till stonily, <br/>
+<br> From soaring battlements, <br/>
+<br> Earth eyes Eternity <br/>
 
 As a Scottish history buff and Gothic architecture enthusiast, I first fell in love with Glasgow and Edinburgh on a family vacation in 2022. This collection of photographs highlights some of landmarks and infamous views that make Scotland home to some of the world's most beautiful cities and richest histories.
 
