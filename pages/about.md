@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 <b> Edinburgh <b/>
-<b> by Hugh MacDiarmid <b/>
+<br> by Hugh MacDiarmid <br/>
 <br> But Edinburgh is a mad god's dream <br/>
 <br> Fitful and dark, <br/>
 <br> Unseizable in Leith <br/>
